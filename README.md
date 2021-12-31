@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Phelipe. How are you doing? 👋
 I'm majoring in Computer Engineering looking for opportunities and collaboration on projects related to Fullstack development, Data Science and Deep Learning.
-- 🔭 I’m currently working on Front-end development (also, I am brushing up my data structures and algorithms skills regularly).
+- 🔭 I’m currently working on Back-end and Devops development (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning about UNIX based systems, REST API app development and Deep Learning techniques.
 - 🤝 I’m looking to collaborate on front/back end projects and data science and deep learning projects. 
 
