@@ -6,12 +6,4 @@ I'm majoring in Computer Engineering and recently working on projects related to
 - 🔭  Working on UVC Portal development ([read more about](https://umavidacomcristo.netlify.app/))
 
 
-  
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=matheusphalves&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusphalves&layout=compact&theme=dark)](https://github.com/matheusphalves/github-readme-stats)
-
-Find out more about me
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusphalves/)
-
 God bless you.
